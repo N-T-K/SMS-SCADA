@@ -1,6 +1,9 @@
 # SMS-SCADA
 Data acquisition and control of remote devices via SMS communication. 
-## Note!: the current program is missing because of hardware failure on a computer and the reason I have a remote
-Github is because of this failure. 
+## Note!: I am in the process of trying to recovering my current working version
 
-bear with me while I try to recover the program :(
+###This was written in my senior year of high school before any formal educatio
+in programming. I do plan to revamp this later on in the year after the quarter
+ends. Thanks!
+
+
