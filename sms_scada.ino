@@ -70,6 +70,8 @@ void loop()
     Serial.println(Data[data_count]);
     data_count++;
   }
+  //Note: the serial output is useless when the GSM shield is attached 
+  //
   if(data_count == Password_Length-1)
   {
     Serial.println("Password is ");
